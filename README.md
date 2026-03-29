@@ -1,1 +1,3 @@
-# kbecker35.github.io
+# Kayla Becker's ePortfolio
+Electrical Engineering student at Georgia Tech 🐝
+  -
